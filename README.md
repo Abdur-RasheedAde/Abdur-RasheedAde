@@ -1,14 +1,14 @@
-
 # 👋 Hi, I'm Abdur-Rasheed Abiodun Adeoye
 
 ### 🎓 A seasoned Data Professional; Engineer, Scientist and Analyst | 🧠 Biologist & Marine Scientist | 🌍 Environmental Advocate
 
 ---
 
-## 🔬 My Latest Application  
-   I built a Lenght Weight Relationbship Model (LWR) and Condition factor (K) Model where I integrated these 2 statitical models in a 🐟 fisheries application.
-   LWR assess fish condition and growth pattern while K measures the general health and robustness of a fish.
-   Explore the application here [Link](https://fish-growth-pattern.streamlit.app/#length-weight-relationship-lwr)
+## 🔬 My Latest Application
+
+I built a Length Weight Relationship Model (LWR) and Condition Factor (K) Model where I integrated these two statistical models in a 🐟 fisheries application. LWR assesses fish condition and growth pattern while K measures the general health and robustness of a fish.  
+Explore the application here: [Fish Growth Pattern App](https://fish-growth-pattern.streamlit.app/#length-weight-relationship-lwr)
+
 ---
 
 ## 💻 Data Science & Bioinformatics Projects
@@ -27,3 +27,4 @@
 ---
 
 > “Connecting science with society through data and innovation.”
+"""
