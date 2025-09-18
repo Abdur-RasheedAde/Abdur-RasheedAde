@@ -5,10 +5,10 @@
 
 ---
 
-#### 🔬 My Latest Application
-I built a Lenght Weight Relationbship Model (LWR) and Condition factor (K) Model where I integrated these 2 statitical models in an application.
-LWR assess fish condition and growth pattern while K measures the general health and robustness of a fish.
-Explore the application here [Link](https://fish-growth-pattern.streamlit.app/#length-weight-relationship-lwr)
+## 🔬 My Latest Application  
+   I built a Lenght Weight Relationbship Model (LWR) and Condition factor (K) Model where I integrated these 2 statitical models in an application.
+  LWR assess fish condition and growth pattern while K measures the general health and robustness of a fish.
+  Explore the application here [Link](https://fish-growth-pattern.streamlit.app/#length-weight-relationship-lwr)
 ---
 
 ## 💻 Data Science & Bioinformatics Projects
