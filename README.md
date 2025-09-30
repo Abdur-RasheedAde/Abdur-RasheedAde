@@ -21,7 +21,7 @@ Explore the application here: [Fish Growth Pattern App](https://fish-growth-patt
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/abdur-rasheed-adeoye/)  
-- [Twitter](https://twitter.com/yourhandle)  
+- [Twitter](https://x.com/DAAXRasheed?t=4FEslD8j4Xjqx6_LQArAog&s=09)  
 - 📧 adeoyerasheed30@gmail.com
 
 ---
