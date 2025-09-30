@@ -20,7 +20,7 @@ Explore the application here: [Fish Growth Pattern App](https://fish-growth-patt
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [LinkedIn](https://www.linkedin.com/in/abdur-rasheed-adeoye/)  
 - [Twitter](https://twitter.com/yourhandle)  
 - 📧 adeoyerasheed30@gmail.com
 
